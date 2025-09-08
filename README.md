@@ -1,6 +1,5 @@
 # Car Price Prediction with Linear Regression
 
-![Linear Regression](https://raw.githubusercontent.com/username/repo/main/assets/linear_regression.png)
 
 ## Overview
 
